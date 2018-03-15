@@ -1,0 +1,55 @@
+body {
+    background: black;
+    font-family: Arial; sans-serif;
+    color: white;
+    padding: 20px 150px;
+}
+
+#main-container{
+    background: grey;
+    padding: 100px;
+    height: 100vh;
+}
+
+#header {
+    display: flex;
+}
+
+#logo {
+    height: 50px;
+    width: auto;
+}
+
+#top-search {
+    width: 100%;
+}
+
+#top-menu {
+
+}
+
+#movie-image {
+    height: 300px;
+}
+/*<img src="/pictures/image.jpg" alt" ferris beuller" width="104" height="142"*/
+
+
+/*#content p {*/
+    /*font-size: 14px;*/
+    /*margin: 10px 0;*/
+/*}*/
+
+/*h1 {*/
+    /*color: white;*/
+/*}*/
+
+
+/*h2  {*/
+    /*color: white;*/
+/*}*/
+
+
+/*h3  {*/
+    /*color: white;*/
+/*}*/
+
